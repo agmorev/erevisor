@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>Images/DFS_Ukraine_logo.png</file>
+    <file>Images/logo_audit.png</file>
+  </qresource>
+</RCC>
